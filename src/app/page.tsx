@@ -37,7 +37,6 @@ export default function SealForm() {
     setInputs(newInputs);
   };
 
-  const selectedFont = typeOptions.find((type) => type.id === selectedType)?.fontClass || "text-inter";
   const sealText = inputs.join(" ");
 
   return (
