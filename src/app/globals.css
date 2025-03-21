@@ -44,4 +44,7 @@ body {
 .text-poppins {
   font-family: var(--font-poppins);
 }
+.font-tenshokk{
+  font-family: "hot-tenshokk";
+}
 
